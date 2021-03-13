@@ -1,4 +1,4 @@
-# Install the base requirements for the app.
+# Install the base requirements for the application.
 # This stage is to support development.
 FROM python:alpine AS base
 WORKDIR /app
